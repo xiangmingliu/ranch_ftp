@@ -1,0 +1,3 @@
+{release,{"tcp_echo_example","1"},
+         {erts,"6.4"},
+         [{kernel,"3.2"},{stdlib,"2.4"},{ranch,"1.1.0"},{tcp_echo,"1"}]}. 
