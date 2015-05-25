@@ -1,0 +1,12 @@
+{application, ranch_ftp,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { ranch_ftp_app, []}},
+  {env, []}
+ ]}.
